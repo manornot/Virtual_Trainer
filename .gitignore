@@ -1,0 +1,11 @@
+#untrack folders
+
+ecg_test/
+Squats/
+EDI-Data/
+Mean_Value_Combinations/
+.ipynb_checkpoints/
+.vscode/
+#filetypes to ignore
+.csv
+.png
